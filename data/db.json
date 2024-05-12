@@ -53,18 +53,6 @@
       "name": "Iphone 10s",
       "price": 1500,
       "checked": false
-    },
-    {
-      "id": "6354",
-      "name": "khaoula",
-      "price": 3000,
-      "checked": true
-    },
-    {
-      "id": "dba1",
-      "name": "khaoula ALLAK",
-      "price": 2,
-      "checked": true
     }
   ]
 }
